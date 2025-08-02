@@ -76,6 +76,9 @@
             <mxPoint x="640" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uiofaBcEdZ2x7m33tVfb-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M0A9UQwUjTfV-8Phl40K-78" target="M0A9UQwUjTfV-8Phl40K-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M0A9UQwUjTfV-8Phl40K-78" value="&lt;div&gt;https://my-app.domain.name&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="320" width="240" height="80" as="geometry" />
         </mxCell>
